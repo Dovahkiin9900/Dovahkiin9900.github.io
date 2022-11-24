@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>韦小绿Unit1</title>
+      <link href="/2022/11/23/%E9%9F%A6%E5%B0%8F%E7%BB%BF/Unit1/"/>
+      <url>/2022/11/23/%E9%9F%A6%E5%B0%8F%E7%BB%BF/Unit1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="Unit1"><a href="#Unit1" class="headerlink" title="Unit1"></a>Unit1</h3><h4 id="BENE"><a href="#BENE" class="headerlink" title="BENE"></a>BENE</h4><p>​    Latin for “well”</p><ul><li><strong>benefit</strong>    n：益处    v：受益    </li></ul><p>​        动词：<strong>benefit from</strong>    从……中受益</p><p>​        benefit of true love，or friends with benefits（sex） ？</p><p>​        the benefit of a formal college education 上正式大学的好处</p><p>​        a benefit concert    慈善演唱会</p><p>​                                                                <img src="https://picgo-1314705274.cos.ap-guangzhou.myqcloud.com/picgo/%E9%9F%A6%E5%B0%8F%E7%BB%BF1.1-1.png" alt="im        age-20221122235507620" style="zoom: 67%;"></p><ul><li><strong>beneficial</strong>    adj.</li></ul><p>​        A good diet is beneficial to health</p><ul><li><strong>benefactor</strong>    /ˈbenɪfæktə(r)/    捐助人</li></ul><p>​        bene——好，factor——要素，benefactor——提供好的要素者。</p><p>​        A benefactor of the arts    艺术家的赞助者。（在未成名之前往往需要人赞助才能维持生活）</p><ul><li><strong>beneficiary</strong>    /ˌbenɪˈfɪʃəri/    受益人</li></ul><p>​        the beneficiary of will    遗嘱的受益人</p><p>​        the beneficiary of early election    早期选举的受益人</p><p>​        the beneficiary of new era    新时代的受益人</p><ul><li><strong>benign</strong>    /bɪˈnaɪn/    和善的；良性的</li></ul><p>​        a more benign audience    一位更和善的观众</p><p>​        an especially benign climate 一种特别怡人的气候</p><p>​        a benign tumour 一个良性肿瘤</p><ul><li><strong>benevolent</strong>    /bəˈnevələnt/    仁慈的；和蔼的</li></ul><p>​        a very benevolent employer    一个非常仁慈的老板（不会让你天天加班996）</p><ul><li><strong>benevolence</strong>    noun form</li></ul><p>​        the benevolence of the employer moved every one    老板的仁慈打动了每一个人</p><ul><li><strong>bonus</strong>    奖金；<em>额外收获</em>（没有这个收获也照样能活，额外收获的bonus是一个附加奖励，不是核心）</li></ul><p>​        North sea oil has proved a bonus for British technology    </p><ul><li><strong>bonanza</strong>    /bəˈnænzə/    富含矿藏的地带；财运亨通</li></ul><p>​        a benanza year    财运亨通、赚大钱的年（风口来了，猪都能飞的那种）</p><p>​        a benanza year for the oil industry</p><ul><li><strong>bounty</strong>    /ˈbaʊnti/     赏金；丰富之物</li></ul><p>​        bounty hunter 赏金猎人</p><p>​        autumn’s bounty of fruits    秋天丰盛的水果</p><ul><li><strong>benediction</strong>    祷告；祝福（一般用于宗教场合）</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 英语 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 背单词 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>复数基础</title>
+      <link href="/2022/11/22/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/"/>
+      <url>/2022/11/22/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/</url>
+      
+        <content type="html"><![CDATA[<h4 id="1-1复数与共轭复数的基本关系"><a href="#1-1复数与共轭复数的基本关系" class="headerlink" title="1.1复数与共轭复数的基本关系"></a>1.1复数与共轭复数的基本关系</h4><p><img src="https://picgo-1314705274.cos.ap-guangzhou.myqcloud.com/picgo/%E5%A4%8D%E5%8F%981.1.png" alt="image-20221122114013925"></p><p><img src="https://picgo-1314705274.cos.ap-guangzhou.myqcloud.com/picgo/%E5%A4%8D%E5%8F%981.1-2.png" alt="image-20221122114337875"></p><ul><li><p><strong>性质1：积之模等于模之积（商亦同）</strong></p><p><em>意思就是可以分别取模来运算复数积的模</em></p><p>以下是最简单粗暴的运算证明：</p></li></ul><script type="math/tex; mode=display">z_1 =a+bi</script><script type="math/tex; mode=display">z_2 =c+di</script><script type="math/tex; mode=display">z_1 * z_2 =(ac-bd) + (ad+bc)i</script><script type="math/tex; mode=display">|z_1*z_2| = \sqrt{a^2c^2+b^2d^2-2abcd+a^2d^2+b^2c^2+2abdc}=\sqrt{a^2c^2+b^2d^2+a^2d^2+b^2c^2}</script><p>​    而模之积为：</p><script type="math/tex; mode=display">|z_1|*|z_2| =(\sqrt{a^2+b^2} )*(\sqrt{c^2+d^2})=\sqrt{a^2c^2+b^2d^2+a^2d^2+b^2c^2}</script><p>​    它们的结果都是a,b,c,d的平方中四选二组合。</p><script type="math/tex; mode=display">∴|z_1*z_2|=|z_1|*|z_2|</script><p>​    对于除法，通过变换后变成如下形式，由于乘法证明具有一般性，所以除法同理也可证。</p><script type="math/tex; mode=display">\frac{1}{z_2} =\frac{1}{c+di}=\frac{c-di}{c^2+d^2}=\frac{c}{c^2+d^2}-\frac{di}{c^2+d^2}=C +Di</script><ul><li><p><strong>性质2：乘共轭复数等于模平方</strong></p><script type="math/tex; mode=display">(a+bi)(a-bi)=a^2+b^2=|z|^2</script></li><li></li><li><p><strong>性质3：实部与虚部的分离</strong></p></li></ul><script type="math/tex; mode=display">z=x+yi</script><p>​    那么</p><p><img src="https://picgo-1314705274.cos.ap-guangzhou.myqcloud.com/picgo/%E5%A4%8D%E5%8F%981.1_3.png" alt="image-20221122194224282"></p><ul><li><strong>性质4：积的共轭复数等于共轭复数之积，商的共轭复数等于共轭复数之商，和的共轭复数等于共轭复数的和</strong></li></ul><p>​    <em>听起来有点奇妙，后面有更直观的几何解释</em></p><script type="math/tex; mode=display">z_1=a+bi~,~z_2=c+di</script><script type="math/tex; mode=display">z_1^-=a-bi~,~z_2^-=c-di</script><p>①加法bc</p><script type="math/tex; mode=display">(z_1+z_2)^-=[(a+c)+(b+d)i]^-=(a+c)-(b+d)i</script><script type="math/tex; mode=display">z_1^-+z_2^-=(a+c)-(b+d)i</script><p>②乘法</p><script type="math/tex; mode=display">z_1^-*z_2^-=(a-bi)*(c-di)=ac+bd-(ad+bc)i</script><script type="math/tex; mode=display">(z_1*z_2)^-=(a+bi)*(c+di)=[(ac-bd)+(ad+bc)i]^-=(ac-bd)-(ad+bc)i</script><p>③与乘法类似</p><h4 id="1-2复数的几何意义"><a href="#1-2复数的几何意义" class="headerlink" title="1.2复数的几何意义"></a>1.2复数的几何意义</h4><p><img src="https://picgo-1314705274.cos.ap-guangzhou.myqcloud.com/picgo/%E5%A4%8D%E5%8F%981.2.1.png" alt="image-20221122205518559"></p><p>​    其中偏转角称为<strong>辐角</strong></p><p>​    那么，可以得到复数的<strong>三角函数表达式</strong>：</p><script type="math/tex; mode=display">z=x+yi=r(\cos\theta+i\sin\theta),~~r=\sqrt{x^2+y^2}=|z|</script><p>​    由欧拉公式</p><script type="math/tex; mode=display">e^{i\theta} = \cos\theta~+~i\sin\theta</script><p>​    可以得到复数的<strong>指数表达式</strong>:</p><script type="math/tex; mode=display">z=|z|*e^{i\theta}</script><p>​    用复数的指数式来作乘除法就显得非常简单了</p><script type="math/tex; mode=display">z_1*z_2=|z_1|*|z_2|*e^{i(\theta_1+\theta_2)}</script><script type="math/tex; mode=display">\frac{z_1}{z_2}=\frac{|z_1|}{|z_2|}*e^{i(\theta_1-\theta_2)}</script><p>​    从上面两个表达式我们就可以发现乘除法里的一些集合含义：</p><ul><li>两个复数相乘，在复平面内表现为<strong>模长相乘，辐角相加</strong></li><li>两个复数相除，在复平面内表现为<strong>模长相除，辐角相减</strong></li></ul><p>​    回顾上文提到的共轭复数相关运算，取共轭复数对实部无影响，虚部则是相反数，图像上表现为将复平面内的向量上下翻转</p><p>​    可以看出：<strong>取共轭复数其实是取辐角的相反数</strong></p><p>​    这样一来，先作乘除运算再取共轭复数 和 先分别取共轭复数再作乘除运算 就显得别无二致了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 信号与系统 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>辗转相除法求最大公约数</title>
+      <link href="/2022/11/14/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/"/>
+      <url>/2022/11/14/%E8%BE%97%E8%BD%AC%E7%9B%B8%E9%99%A4%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p>欧几里得最大公约数求法</p><p>A，B；</p><p>用较大的数对较小的数取余，然后用余数替换原来较大的数，最终能整除后，除数就是最大公约数。</p><p>给出如下说明：</p><p>最大公约数 p_max = p_1 <em> p_2 </em> p_3 …… * p_n</p><p>p_n为共有的质因子</p><p>那么A，B可以写成 p_max (a，b)，显然a，b互质；</p><p>不妨设a &gt; b ，按照上述过程，a = (a % b) , 得到的a仍然是与b互质的数</p><p>那么经过多次循环后，a，b保持互质，并且不断缩小，最终直到其中一个数变成1;</p><p>那么此时 p_max( a , 1 ) ， 按照给定算法，A % B = a，可以进行整除，且除数就是较小的</p><p>p_max，由此得到了最大公约数</p><pre><code class="lang-c">    while(1)&#123;        if(b &gt; a)&#123;            b = a + b;            a = b - a;            b = b - a;        &#125;        if( (a %= b) == 0 )&#123;            break;//进行取余，如果二者可以整除，那么中止        &#125;    &#125;</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 算法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日常抱怨</title>
+      <link href="/2022/10/29/HiHiHi/"/>
+      <url>/2022/10/29/HiHiHi/</url>
+      
+        <content type="html"><![CDATA[<p>要是猫猫那样自由自在该多好啊</p><p><img src="https://picgo-1314705274.cos.ap-guangzhou.myqcloud.com/picgo/%E7%8C%AB%E7%8C%AB.jpeg" alt="1e4ac2aeb0d76f97ffd7e3d3cca1956d1666499689151"></p><p>那就好好努力吧！然后再给自己放个假！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HiHiHi</title>
+      <link href="/2022/10/29/%E5%8F%91%E7%89%A2%E9%AA%9A/"/>
+      <url>/2022/10/29/%E5%8F%91%E7%89%A2%E9%AA%9A/</url>
+      
+        <content type="html"><![CDATA[<p>这是Dovahkiin写下的第一篇blog</p><p><img src="https://picgo-1314705274.cos.ap-guangzhou.myqcloud.com/picgo%2F1.jpg" alt="ec43126fgy1h5h7iahl82j21kq2iynpd"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hello World </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hello World </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
